@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* Heading Stylings */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,6 +39,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Begin body stylings */
+
 body {
     background-color: #d9dcd6;
 }
@@ -59,6 +63,8 @@ p {
     background-position: center;
 }
 
+/* Stylings for the main 3 sections */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,8 +74,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-/* Stylings for the main 3 sections */
 
 .primary-section{
     margin-bottom: 20px;
