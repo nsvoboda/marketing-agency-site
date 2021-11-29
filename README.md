@@ -46,4 +46,4 @@ Edited with ❤️ by Nate and the Horiseon team.
 
 &copy; 2021 Nathaniel Svoboda
 
-Licensed under the [BSD 2-Clause](LICENSE)
+Licensed under the [BSD 2-Clause](LICENSE.txt)
