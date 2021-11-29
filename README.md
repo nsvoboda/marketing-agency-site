@@ -25,18 +25,20 @@ https://nsvoboda.github.io/marketing-agency-site/
 
 ### Installation
 
+It is best practice to directly clone the respository by using the following code in your Terminal/Command Line:
+
 git clone git@github.com:nsvoboda/marketing-agency-site.git
 
-## Usage
+### Usage
 
 Learn about important concepts regarding search engine optimization and digital marketing. Reach out to ask about engaging Horiseon and their strategic services.
 
 ```md
-![screenshot of the site's hero section](assets/images/site-hero.png)
+![screenshot of the site's hero section](site-hero.png)
 ```
 
 ```md
-![screenshot of the site's main content section](assets/images/site-content.png)
+![screenshot of the site's main content section](site-content.png)
 ```
 
 ## Contribution
